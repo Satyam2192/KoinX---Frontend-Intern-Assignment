@@ -2,6 +2,8 @@
 
 This project is a frontend assignment showcasing a cryptocurrency information dashboard. It's built using React, TypeScript, and Tailwind CSS.
 
+- Deployed Url - https://satyam-kumar-koin-x-assignment.vercel.app/
+
 ## Table of Contents
 
 *   [Features](#features)
