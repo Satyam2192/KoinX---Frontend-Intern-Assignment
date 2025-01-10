@@ -26,14 +26,14 @@ This application provides a comprehensive view of cryptocurrency information, in
 
 ## Technologies Used
 
-*   **React:** 
-*   **TypeScript:** 
-*   **Tailwind CSS:** 
-*   **Vite:** 
-*   **Axios:** 
-*   **react-icons:** 
-*   **hamburger-react:** 
-*   **TradingView Widget:** 
+*   **React** 
+*   **TypeScript** 
+*   **Tailwind CSS** 
+*   **Vite** 
+*   **Axios** 
+*   **react-icons** 
+*   **hamburger-react** 
+*   **TradingView Widget** 
 
 ## Getting Started
 
@@ -44,7 +44,7 @@ Follow these steps to get the project up and running on your local machine.
 1. **Clone the repository:**
 
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/Satyam2192/KoinX---Frontend-Intern-Assignment.git
     cd koinx-Frontend-Assignment
     ```
 
@@ -52,8 +52,6 @@ Follow these steps to get the project up and running on your local machine.
 
     ```bash
     npm install
-    # or
-    yarn install
     ```
 
 ### Running the Application
@@ -62,8 +60,6 @@ Follow these steps to get the project up and running on your local machine.
 
     ```bash
     npm run dev
-    # or
-    yarn dev
     ```
 
     This will start the application at `http://localhost:5173/`
